@@ -34,15 +34,15 @@ print_with_delay " " 0.1
 print_with_delay "b" 0.1
 print_with_delay "y" 0.1
 print_with_delay " " 0.1
-print_with_delay "i" 0.1
-print_with_delay "A" 0.1
-print_with_delay "g" 0.1
+print_with_delay "m" 0.1
+print_with_delay "o" 0.1
+print_with_delay "h" 0.1
+print_with_delay "s" 0.1
+print_with_delay "e" 0.1
+print_with_delay "n" 0.1
+print_with_delay "c" 0.1
 print_with_delay "h" 0.1
 print_with_delay "a" 0.1
-print_with_delay "p" 0.1
-print_with_delay "o" 0.1
-print_with_delay "u" 0.1
-print_with_delay "r" 0.1
 print_with_delay " " 0.1
 print_with_delay ""
 echo ""
